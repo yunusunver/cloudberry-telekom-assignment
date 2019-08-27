@@ -1,0 +1,11 @@
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\bin\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.deps.json
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\bin\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.runtimeconfig.json
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\bin\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.runtimeconfig.dev.json
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\bin\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.dll
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\bin\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.pdb
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.csprojAssemblyReference.cache
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.AssemblyInfoInputs.cache
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.AssemblyInfo.cs
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.dll
+C:\Users\unver\source\repos\CloudBerryMukemmelSayi\CloudBerryMukemmelSayi\obj\Debug\netcoreapp2.1\CloudBerryMukemmelSayi.pdb

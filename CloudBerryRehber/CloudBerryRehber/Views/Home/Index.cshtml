@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CloudBerryRehber.Models.Person>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<table class="table">
+    <tr>
+        <th>
+
+            @Html.DisplayNameFor(model => model.Ad)
+
+        </th>
+        <th>
+
+            @Html.DisplayNameFor(model => model.Telefon)
+
+        </th>
+     
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Ad)
+
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Telefon)
+
+            </td>
+    
+        </tr>
+    }
+
+</table>  
